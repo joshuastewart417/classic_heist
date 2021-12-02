@@ -1,0 +1,16 @@
+C:\Users\12054\workspace\classic_heist\bin\Debug\net5.0\classic_heist.exe
+C:\Users\12054\workspace\classic_heist\bin\Debug\net5.0\classic_heist.deps.json
+C:\Users\12054\workspace\classic_heist\bin\Debug\net5.0\classic_heist.runtimeconfig.json
+C:\Users\12054\workspace\classic_heist\bin\Debug\net5.0\classic_heist.runtimeconfig.dev.json
+C:\Users\12054\workspace\classic_heist\bin\Debug\net5.0\classic_heist.dll
+C:\Users\12054\workspace\classic_heist\bin\Debug\net5.0\ref\classic_heist.dll
+C:\Users\12054\workspace\classic_heist\bin\Debug\net5.0\classic_heist.pdb
+C:\Users\12054\workspace\classic_heist\obj\Debug\net5.0\classic_heist.csproj.AssemblyReference.cache
+C:\Users\12054\workspace\classic_heist\obj\Debug\net5.0\classic_heist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12054\workspace\classic_heist\obj\Debug\net5.0\classic_heist.AssemblyInfoInputs.cache
+C:\Users\12054\workspace\classic_heist\obj\Debug\net5.0\classic_heist.AssemblyInfo.cs
+C:\Users\12054\workspace\classic_heist\obj\Debug\net5.0\classic_heist.csproj.CoreCompileInputs.cache
+C:\Users\12054\workspace\classic_heist\obj\Debug\net5.0\classic_heist.dll
+C:\Users\12054\workspace\classic_heist\obj\Debug\net5.0\ref\classic_heist.dll
+C:\Users\12054\workspace\classic_heist\obj\Debug\net5.0\classic_heist.pdb
+C:\Users\12054\workspace\classic_heist\obj\Debug\net5.0\classic_heist.genruntimeconfig.cache
